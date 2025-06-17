@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega1\\2024s1_Ejercicios1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{246909B7-2EE3-453D-A290-88F022DFC73E}|aFramework.vcxproj|C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega1\\2024s1_Ejercicios1\\EjerciciosArboles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{246909B7-2EE3-453D-A290-88F022DFC73E}|aFramework.vcxproj|solutionrelative:EjerciciosArboles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246909B7-2EE3-453D-A290-88F022DFC73E}|aFramework.vcxproj|C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega1\\2024s1_Ejercicios1\\EjerciciosComienzo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{246909B7-2EE3-453D-A290-88F022DFC73E}|aFramework.vcxproj|solutionrelative:EjerciciosComienzo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EjerciciosComienzo.cpp",
+              "DocumentMoniker": "C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega1\\2024s1_Ejercicios1\\EjerciciosComienzo.cpp",
+              "RelativeDocumentMoniker": "EjerciciosComienzo.cpp",
+              "ToolTip": "C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega1\\2024s1_Ejercicios1\\EjerciciosComienzo.cpp",
+              "RelativeToolTip": "EjerciciosComienzo.cpp",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T17:33:42.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EjerciciosArboles.cpp",
+              "DocumentMoniker": "C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega1\\2024s1_Ejercicios1\\EjerciciosArboles.cpp",
+              "RelativeDocumentMoniker": "EjerciciosArboles.cpp",
+              "ToolTip": "C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega1\\2024s1_Ejercicios1\\EjerciciosArboles.cpp",
+              "RelativeToolTip": "EjerciciosArboles.cpp",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T22:18:35.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
