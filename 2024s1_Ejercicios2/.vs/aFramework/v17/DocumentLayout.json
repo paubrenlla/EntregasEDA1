@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega2\\2024s1_Ejercicios2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18640DB1-7DDC-41D4-94DE-010CF88C0BA7}|aFramework.vcxproj|C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega2\\2024s1_Ejercicios2\\ColaPrioridadIntImp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18640DB1-7DDC-41D4-94DE-010CF88C0BA7}|aFramework.vcxproj|solutionrelative:ColaPrioridadIntImp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18640DB1-7DDC-41D4-94DE-010CF88C0BA7}|aFramework.vcxproj|C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega2\\2024s1_Ejercicios2\\TablaIntStringImp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18640DB1-7DDC-41D4-94DE-010CF88C0BA7}|aFramework.vcxproj|solutionrelative:TablaIntStringImp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColaPrioridadIntImp.cpp",
+              "DocumentMoniker": "C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega2\\2024s1_Ejercicios2\\ColaPrioridadIntImp.cpp",
+              "RelativeDocumentMoniker": "ColaPrioridadIntImp.cpp",
+              "ToolTip": "C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega2\\2024s1_Ejercicios2\\ColaPrioridadIntImp.cpp",
+              "RelativeToolTip": "ColaPrioridadIntImp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T21:25:53.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TablaIntStringImp.cpp",
+              "DocumentMoniker": "C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega2\\2024s1_Ejercicios2\\TablaIntStringImp.cpp",
+              "RelativeDocumentMoniker": "TablaIntStringImp.cpp",
+              "ToolTip": "C:\\Users\\paubr\\Documents\\ORT\\3er sem\\Algoritmos 1\\Entrega2\\2024s1_Ejercicios2\\TablaIntStringImp.cpp",
+              "RelativeToolTip": "TablaIntStringImp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-01T00:15:08.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

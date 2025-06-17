@@ -1,0 +1,84 @@
+﻿  ColaArray.cpp
+  ColaIntImp.cpp
+  ColaPrioridadIntImp.cpp
+  ConductorPrueba.cpp
+  ConductorPruebaObl2.cpp
+  Defensa.cpp
+  DiccionarioIntImp.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\ColaArray.cpp(69,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\ColaIntImp.cpp(85,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\ColaPrioridadIntImp.cpp(58,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\ConductorPrueba.cpp(88,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\ConductorPruebaObl2.cpp(87,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\Defensa.cpp(2,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  Ejercicios.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\DiccionarioIntImp.cpp(202,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\Ejercicios.cpp(129,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  EstadisticaPrueba.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\EstadisticaPrueba.cpp(50,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  FuncAux.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\FuncAux.cpp(1379,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  FuncAuxTAD.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\FuncAuxTAD.cpp(110,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  FuncAux_s.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\FuncAux_s.cpp(68,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  ListaOrdIntImp.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\ListaOrdIntImp.cpp(166,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  ListaOrdIntImp2.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\ListaOrdIntImp2.cpp(312,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  ListaPosIntImp.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\ListaPosIntImp.cpp(120,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  main.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\main.cpp(80,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  ManejadorArchivos.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\ManejadorArchivos.cpp(455,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  ManejadorImpresionPrueba.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\ManejadorImpresionPrueba.cpp(143,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  ManejadorSalidaPrueba.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\ManejadorSalidaPrueba.cpp(79,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  MultisetIntImp.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\MultisetIntImp.cpp(295,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  Compilando...
+  PilaIntImp.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PilaIntImp.cpp(81,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  Prueba.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\Prueba.cpp(77,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasAuxDefensa.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasAuxDefensa.cpp(141,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasAuxEntrega.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasAuxEntrega.cpp(232,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasColaInt.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasColaInt.cpp(127,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasColaPrioridadInt.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasColaPrioridadInt.cpp(94,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasCorreccion.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasCorreccion.cpp(20,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasDefensa.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasDefensa.cpp(20,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasDiccionarioInt.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasDiccionarioInt.cpp(68,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasEjemploDeUsoEntrega.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasEjemploDeUsoEntrega.cpp(161,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasListaOrdInt.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasListaOrdInt.cpp(134,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasListaPosInt.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasListaPosInt.cpp(72,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasMultisetInt.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasMultisetInt.cpp(167,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasPilaInt.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasPilaInt.cpp(127,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasPropias.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasPropias.cpp(22,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasSetInt.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasSetInt.cpp(165,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasTablaIntInt.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasTablaIntInt.cpp(91,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  PruebasTablaIntString.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\PruebasTablaIntString.cpp(90,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  SetIntImp.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\SetIntImp.cpp(72,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  TablaIntIntImp.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\TablaIntIntImp.cpp(57,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?
+  Compilando...
+  TablaIntStringImp.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\2024s1_Ejercicios2\TablaIntStringImp.cpp(58,1): error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "pch.h"' al código fuente?

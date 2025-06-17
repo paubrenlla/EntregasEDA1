@@ -1,0 +1,3 @@
+﻿  DiccionarioIntImp.cpp
+C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\Entrega2\2024s1_Ejercicios2\DiccionarioIntImp.cpp(22,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  aFramework.vcxproj -> C:\Users\paubr\Documents\ORT\3er sem\Algoritmos 1\Entrega2\2024s1_Ejercicios2\Debug\aFramework.exe
